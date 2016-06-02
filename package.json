@@ -1,0 +1,14 @@
+{
+  "name": "antlr4-js",
+  "version": "0.1.0",
+  "description": "Spike with ANTLR4 and JS",
+  "main": "index.js",
+  "keywords": [
+    "Edioma"
+  ],
+  "author": "Guilherme Dias",
+  "license": "MIT",
+  "dependencies": {
+    "antlr4": "4.5.3"
+  }
+}
